@@ -1,3 +1,9 @@
+#player-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+}
 .audio.green-audio-player {
   width: 400px;
   min-width: 300px;
